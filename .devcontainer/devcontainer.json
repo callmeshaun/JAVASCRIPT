@@ -25,7 +25,7 @@
 				"formulahendry.code-runner"
 			],
 			"settings": {
-				"editor.fontSize": 20,
+				"editor.fontSize": 25,
 				"terminal.integrated.fontSize": 24,
 				"editor.wordWrap": "on"
 			}

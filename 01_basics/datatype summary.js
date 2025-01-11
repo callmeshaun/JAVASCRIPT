@@ -45,3 +45,14 @@ const myFunction=function(){
 //console .log(typeof myFunction)
 //=>function
 
+/* STACK VS HEAP*/
+
+//stack(primitive) and heap(Non primitive)
+
+let c= "shaunak"
+
+let m =c
+m ="suryawanshi"
+
+console.log(c)
+console.log(m)
